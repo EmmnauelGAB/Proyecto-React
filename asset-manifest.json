@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EmmnauelGAB/Proyecto-React/static/css/main.a0a72d0e.css",
+    "main.js": "/EmmnauelGAB/Proyecto-React/static/js/main.963bee03.js",
+    "index.html": "/EmmnauelGAB/Proyecto-React/index.html",
+    "static/media/delete.svg": "/EmmnauelGAB/Proyecto-React/static/media/delete.ffede8c3f67f444e171b9b3ea432c17d.svg",
+    "static/media/check.svg": "/EmmnauelGAB/Proyecto-React/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.a0a72d0e.css.map": "/EmmnauelGAB/Proyecto-React/static/css/main.a0a72d0e.css.map",
+    "main.963bee03.js.map": "/EmmnauelGAB/Proyecto-React/static/js/main.963bee03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0a72d0e.css",
+    "static/js/main.963bee03.js"
+  ]
+}
