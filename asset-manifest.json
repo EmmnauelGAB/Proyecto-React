@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/EmmnauelGAB/react-proyect.git/static/css/main.a0a72d0e.css",
-    "main.js": "/EmmnauelGAB/react-proyect.git/static/js/main.585146df.js",
-    "index.html": "/EmmnauelGAB/react-proyect.git/index.html",
-    "static/media/delete.svg": "/EmmnauelGAB/react-proyect.git/static/media/delete.ffede8c3f67f444e171b9b3ea432c17d.svg",
-    "static/media/check.svg": "/EmmnauelGAB/react-proyect.git/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.a0a72d0e.css.map": "/EmmnauelGAB/react-proyect.git/static/css/main.a0a72d0e.css.map",
-    "main.585146df.js.map": "/EmmnauelGAB/react-proyect.git/static/js/main.585146df.js.map"
+    "main.css": "./static/css/main.a0a72d0e.css",
+    "main.js": "./static/js/main.57b3c3d9.js",
+    "index.html": "./index.html",
+    "static/media/delete.svg": "./static/media/delete.ffede8c3f67f444e171b9b3ea432c17d.svg",
+    "static/media/check.svg": "./static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.a0a72d0e.css.map": "./static/css/main.a0a72d0e.css.map",
+    "main.57b3c3d9.js.map": "./static/js/main.57b3c3d9.js.map"
   },
   "entrypoints": [
     "static/css/main.a0a72d0e.css",
-    "static/js/main.585146df.js"
+    "static/js/main.57b3c3d9.js"
   ]
 }
