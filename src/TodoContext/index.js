@@ -1,5 +1,4 @@
 import React from "react";
-import { TodoCounter } from "../TodoCouter";
 import { useLocalStorage } from "./useLocalStorage";
 
 const TodoContext = React.createContext()
